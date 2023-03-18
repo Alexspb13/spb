@@ -1,4 +1,4 @@
-'''css
+
 # NeuroStartUp
 
 ![](https://raw.githubusercontent.com/netology-ds-team/git-homeworks/main/1_self/logo.png)
@@ -20,5 +20,6 @@
 Ниже пример кода из нашего приложения:
 
 .selector {
-  font-family: "Awesome", Arial, sans-serif;color: red;
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
 }
