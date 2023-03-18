@@ -1,4 +1,4 @@
-
+'''css
 # NeuroStartUp
 
 ![](https://raw.githubusercontent.com/netology-ds-team/git-homeworks/main/1_self/logo.png)
@@ -23,3 +23,4 @@
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+'''
